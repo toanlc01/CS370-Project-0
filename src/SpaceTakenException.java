@@ -1,4 +1,2 @@
-
-public class SpaceTakenException {
-
+public class SpaceTakenException extends Exception{
 }
